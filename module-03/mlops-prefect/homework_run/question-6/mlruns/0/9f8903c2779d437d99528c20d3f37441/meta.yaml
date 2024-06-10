@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/github/mlops-zoomcamp-course/module-03/mlops-prefect/homework_run/question-6/mlruns/0/9f8903c2779d437d99528c20d3f37441/artifacts
+end_time: 1718057366672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f8903c2779d437d99528c20d3f37441
+run_name: aged-bear-931
+run_uuid: 9f8903c2779d437d99528c20d3f37441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718057357276
+status: 3
+tags: []
+user_id: asus
