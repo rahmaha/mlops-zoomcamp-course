@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = false
+name = "pip_conf_index_global"
+
+[packages]
+pandas = "*"
+scikit-learn = "==1.5.0"
+ipykernel = "*"
+pyarrow = "*"
+fastparquet = "*"
+nbconvert = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
