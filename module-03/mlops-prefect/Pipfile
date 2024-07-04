@@ -18,6 +18,7 @@ pydantic = "==1.10.6"
 apprise = "*"
 prefect = {extras = ["docker", "aws"], version = "*"}
 "prefect.docker" = "*"
+ipykernel = "*"
 
 [dev-packages]
 

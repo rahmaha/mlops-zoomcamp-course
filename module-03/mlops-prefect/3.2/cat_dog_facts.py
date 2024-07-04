@@ -14,6 +14,7 @@ def fetch_dog_fact():
         headers={"accept": "application/json"},
     ).json()["data"][0]["attributes"]["body"]
 
+
 @flow(log_prints=True)
 def animal_facts():
     cat_fact = fetch_cat_fact()
